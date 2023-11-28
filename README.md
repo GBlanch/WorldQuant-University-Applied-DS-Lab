@@ -100,5 +100,8 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 &nbsp;
 &nbsp;       
 
+Sometimes “impediment to action advances action. What stands in the way becomes the way”. M.A., _Notes to self_
 
+&nbsp;
+&nbsp;       
 **[Credential of completion](https://www.credly.com/earner/earned/badge/e6e91aef-a957-48d5-8a02-7b9e5d76c042)**
