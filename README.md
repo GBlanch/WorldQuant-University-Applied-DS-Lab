@@ -106,4 +106,4 @@ M.A., _Notes to self_
 
 &nbsp;
 &nbsp;       
-**[Credential of completion](https://www.credly.com/earner/earned/badge/e6e91aef-a957-48d5-8a02-7b9e5d76c042)**
+**[Credential of completion](https://www.credly.com/badges/e6e91aef-a957-48d5-8a02-7b9e5d76c042/public_url)**
