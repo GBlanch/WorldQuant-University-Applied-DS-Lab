@@ -59,7 +59,7 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 	+ Built and launched an **interactive and 3-tier decoupled web application** to deploy and display barcharts and choropleth maps. The layer distribution and their OOP classes and functions were the following:
 	  + Database: customized *MongoRepository* class
 	  + Business : *GraphBuilder* and *StatsBuilder* classes from *statsmodels* module
- 	+ Design/Layout: Demographic, Experiments and Result sections with dropdowns and sliders
+ 	  + Design/Layout: Demographic, Experiments and Result sections with dropdowns and sliders
 
 8. Volatility forecasting in India
 	+ Applied **Defensive programming** when designing a function to access APIs through an URL and Requests
