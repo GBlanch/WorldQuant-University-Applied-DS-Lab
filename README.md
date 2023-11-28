@@ -23,7 +23,7 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
    +	Applied **L2 Regularization** in order to prevent **overfitting or underfitting** in **Linear Regression** models
    +	Created an **interactive dashboard** utilizing *ipywidgets* library to module predictions based on different input features
 
-3. Air quality forecast in Nairobi 
+#### 3. Air quality forecast in Nairobi 
 	+ Connected to a MongoDB server using *pymongo* library to localize and fetch the required data.
 	+ Applied rolling average, autocorrelation and lag operations to Times Series data variables
 	+ Utilized **Train Test Split** procedures to create proper train and test datasets for a **Linear Regression** model
