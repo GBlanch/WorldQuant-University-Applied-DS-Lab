@@ -64,8 +64,8 @@ n.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 8. Volatility forecasting in India
 	+ Applied Defensive programming when designing a function to access APIs through an URL and Requests
 	+ By means of Test Driven Development practices, built the following OOP classes:
-		 + AlphaVantageAPI class, to fetch programmatically data from an API 
-	         + SQLRepository class, to load and extract data into and from a SQLite database 
+	 	+ AlphaVantageAPI class, to fetch programmatically data from an API 
+		+ SQLRepository class, to load and extract data into and from a SQLite database 
 	+ Built a wrangling function to create a training Series for the GARCH model
 	+ Built and fit the GARCH model and evaluate its detailed summary and performace 
 	+ Created a GarchModel class compound by methods for data wrangling, model training, prediction generation and model load/saving
