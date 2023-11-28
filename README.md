@@ -2,7 +2,7 @@
 
 ## Syllabus summary of the courses
 
-N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content/code ran or deployed in any courses is permitted to be published.
+N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content/code ran or deployed in any course is permitted to be published.
 
 &nbsp;
 &nbsp;       
