@@ -40,7 +40,7 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 	+ Besides computing and evaluating training and validation accuracy scores:
 	   	+ For **DT models**, tuned the **Tree’s depth** and assessed its predictions by assessing the **Gini importance** of its features
 	   	+ For **LR models**, evaluated **Odds ratios** to explain its predictions
-	+ Reviewed the ethics of environmental and social impact that ML models may lead to because of data biases
+   + Reviewed the ethics of environmental and social impact that ML models may lead to because of data biases
 
 #### 5. Bankruptcy in Poland:
 + Applied **Undersampling** and **Oversampling** to adjust the **class distribution** of the dataset
