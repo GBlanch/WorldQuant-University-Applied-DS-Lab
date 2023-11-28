@@ -10,7 +10,7 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 &nbsp;
 &nbsp;       
 
-### 1. Housing in Mexico:
+#### 1. Housing in Mexico:
    
    + Imported multiple CSV files into a pandas DataFrame using for loops
    + Created insightful visualizations like histograms, scatter plots, and bar charts
