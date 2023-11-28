@@ -1,7 +1,8 @@
 # Syllabus summary of the courses
 
 n.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content/code ran or deployed in any courses is permitted to be published.
-&nbsp;&nbsp;       
+&nbsp;
+&nbsp;       
 1. Housing in Mexico:
    
    + Imported multiple CSV files into a pandas DataFrame using for loops
