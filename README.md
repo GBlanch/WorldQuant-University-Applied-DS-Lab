@@ -89,7 +89,8 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 	+ *SQLRepository* class, to **load and extract data** into and from a **SQLite database**
 + Constructed a wrangling function to create a training Series for the **GARCH** model
 + Built and fit the **GARCH** model and evaluate its detailed summary and performace 
-+ Created a *GarchModel* class compound by methods for **data wrangling, model training, prediction generation** and model **load/saving**
-+ Built a **web API** and **launch the server** by means of *FastAPI* and *uvicorn*, respectively
-+ Constructed **data classes** in order to **forestall client-server communication errors**
-+ Created **API paths** for **model fitting** and **predictions serving**
++ Created:
+	+ *GarchModel* class compound by methods for **data wrangling, model training, prediction generation** and model **load/saving**
+	+ **web API** and **launch the server** by means of *FastAPI* and *uvicorn*, respectively
+	+ **data classes** in order to **forestall client-server communication errors**
+	+ **API paths** for **model fitting** and **predictions serving**
