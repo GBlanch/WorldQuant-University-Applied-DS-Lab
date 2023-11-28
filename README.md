@@ -32,8 +32,8 @@ n.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
    + Executed randomized Train Test Split to create proper training, testing and validation datasets
 	+ Elaborated ML pipelines utilizing OrdinalEncoder, DecisionTreeClassifier, LogisticRegression and make_pipeline built-in sklearn functions
 	+ Besides computing and evaluating training and validation accuracy scores:
-   	+ For DT models, tuned the Tree’s depth and assessed its predictions by assessing the Gini importance of its features
-   	+ For LR models, evaluated Odds ratios to explain its predictions
+	   	+ For DT models, tuned the Tree’s depth and assessed its predictions by assessing the Gini importance of its features
+	   	+ For LR models, evaluated Odds ratios to explain its predictions
 	+ Reviewed the ethics of environmental and social impact that ML models may lead to because of data biases
 
 5. Bankruptcy in Poland:
@@ -64,8 +64,8 @@ n.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 8. Volatility forecasting in India
 	+ Applied Defensive programming when designing a function to access APIs through an URL and Requests
 	+ By means of Test Driven Development practices, built the following OOP classes:
-	      + AlphaVantageAPI class, to fetch programmatically data from an API 
-         + SQLRepository class, to load and extract data into and from a SQLite database 
+		 + AlphaVantageAPI class, to fetch programmatically data from an API 
+	         + SQLRepository class, to load and extract data into and from a SQLite database 
 	+ Built a wrangling function to create a training Series for the GARCH model
 	+ Built and fit the GARCH model and evaluate its detailed summary and performace 
 	+ Created a GarchModel class compound by methods for data wrangling, model training, prediction generation and model load/saving
