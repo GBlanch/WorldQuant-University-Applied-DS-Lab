@@ -15,6 +15,7 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
    + Imported multiple CSV files into a pandas DataFrame using for loops
    + Created insightful visualizations like histograms, scatter plots, and bar charts
    + Examined the relationship between variables by assessing **Pearson correlation** coefficients
+     
 &nbsp;
 &nbsp;       
 
