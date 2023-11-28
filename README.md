@@ -5,6 +5,11 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 &nbsp;
 &nbsp;       
 
+![image](https://github.com/GBlanch/WorldQuant-University-Applied-DS-Lab/assets/136500426/59eec928-32be-4594-a1bf-5a5311568237)
+
+&nbsp;
+&nbsp;       
+
 1. Housing in Mexico:
    
    + Imported multiple CSV files into a pandas DataFrame using for loops
