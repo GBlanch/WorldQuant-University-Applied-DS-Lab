@@ -12,10 +12,10 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 
 **1 & 2. Housing in Mexico and Buenos Aires:**
    
-   + Imported multiple CSV files into a pandas DataFrame using for loops
+   + Imported multiple CSV files from a private repository into a pandas DataFrame using for loops
    + Created insightful visualizations like histograms, scatter plots, and bar charts
    + Examined the relationship between variables by assessing **Pearson correlation** coefficients  
-   + Cleaned and munged raw data by creating a custom wrangle function
+   + **Cleaned** and **munged raw data** by creating a **custom *wrangle* function**
    + Built **ML pipelines** by means of *Ridge, OneHotEncoder, SimpleImputer, LinearRegression* and *make_pipeline* built-in *sklearn* functions
    + Applied **L2 Regularization** in order to prevent **overfitting or underfitting** in **Linear Regression** models
    + Created an **interactive dashboard** utilizing *ipywidgets* library to module predictions based on different input features
@@ -50,7 +50,7 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 
 **5. Bankruptcy in Poland:**
 + Applied **Undersampling** and **Oversampling** to adjust the **class distribution** of the dataset
-+ Computed **confusion matrices** to summarize how DT models performed and find areas of improvement
++ Computed **confusion matrices** to summarize how **Decission Tree algorithms** performed and **find areas** of **improvement**
 + Constructed **ML pipelines** by means of *SimpleImputer, RandomForestClassifier, GradientBoostingClassifier* and *make_pipeline* built-in *sklearn* functions
 + Performed **k-fold Cross-Validation** to evaluate **model performance**
 + Utilized *GridSearchCV* to compute different **hyperparameters** and found their optimal ranges for the selected ones
