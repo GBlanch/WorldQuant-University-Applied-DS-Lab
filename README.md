@@ -28,28 +28,28 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 	+ Detected an optimal balance between Model Performance and Computational Costs
 
 4. Earthquake damage prediction in Nepal
-	+ Connected to a SQL database and wrangled data using magic commands and sqlite3 library
-   + Executed randomized Train Test Split to create proper training, testing and validation datasets
-	+ Elaborated ML pipelines utilizing OrdinalEncoder, DecisionTreeClassifier, LogisticRegression and make_pipeline built-in sklearn functions
+	+ Connected to a SQL database and wrangled data using *magic commands* and *sqlite3* library
+   + Executed randomized **Train Test Split** to create proper training, testing and validation datasets
+	+ Elaborated ML pipelines utilizing *OrdinalEncoder, DecisionTreeClassifier, LogisticRegression* and *make_pipeline* built-in *klearn* functions
 	+ Besides computing and evaluating training and validation accuracy scores:
-	   	+ For DT models, tuned the Tree’s depth and assessed its predictions by assessing the Gini importance of its features
-	   	+ For LR models, evaluated Odds ratios to explain its predictions
+	   	+ For **DT models**, tuned the **Tree’s depth** and assessed its predictions by assessing the **Gini importance** of its features
+	   	+ For **LR models**, evaluated **Odds ratios** to explain its predictions
 	+ Reviewed the ethics of environmental and social impact that ML models may lead to because of data biases
 
 5. Bankruptcy in Poland:
-	+ Applied Undersampling and Oversampling to adjust the class distribution of the dataset
-	+ Computed confusion matrices to summarize how DT models performed and find areas of improvement
-	+ Construct ML pipelines by means of SimpleImputer, RandomForestClassifier, GradientBoostingClassifier and make_pipeline built-in sklearn functions
-	+ Performed k-fold Cross-Validation to evaluate model performance
-	+ Utilized GridSearchCV to compute different hyperparameters and found their optimal ranges for the selected ones
-	+ Built interactive confusion matrices to asses how the model's probability threshold affects accuracy, precision and recall scores
+	+ Applied **Undersampling** and **Oversampling** to adjust the **class distribution** of the dataset
+	+ Computed **confusion matrices** to summarize how DT models performed and find areas of improvement
+	+ Construct ML pipelines by means of *SimpleImputer, RandomForestClassifier, GradientBoostingClassifier* and *make_pipeline* built-in *sklearn* functions
+	+ Performed **k-fold Cross-Validation** to evaluate **model performance**
+	+ Utilized *GridSearchCV* to compute different **hyperparameters** and found their optimal ranges for the selected ones
+	+ Built **interactive confusion matrices** to asses how the model's probability threshold affects **accuracy, precision and recall scores**
 
 6. Customer segmentation in the US:
-	+ Performed preliminary EDA on a dataset from Survey of Consumer Finances (SCF) compound by 28k observations and 350 features after subsetting it
-	+ Build and fit k-means models to create multi-feature clustering after computing and standardizing their feature matrix
-	+ Assessed the optimal clustering selection by evaluating variance, inertia and silhouette scores
-	+ Reduced the dimension of feature matrices by means of PCA transformation.
-	+ Developed and deployed a Dash web app architected in 3 layers (Business, Service and Presentation) where interactive scatter plots and barcharts were modified via sliders
+	+ Performed preliminary EDA on a dataset from Survey of Consumer Finances (SCF) compound by **28k observations** and **350 features** after subsetting it
+	+ Build and fit **k-means models** to create **multi-feature clustering** after computing and standardizing their feature matrix
+	+ Assessed the optimal clustering selection by evaluating **variance, inertia and silhouette scores**
+	+ Reduced the dimension of feature matrices by means of **PCA transformation**
+	+ Developed and deployed a **Dash web app architected in 3 layers** (Business, Service and Presentation) where **interactive** scatter plots and barcharts were modified via sliders
 
 7. A/B Testing at WorldQuant University
 	+ Fetched synthetic data from a Mongo DB and performed data wrangling using *pymongo* queries
@@ -67,7 +67,7 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 	 	+ *AlphaVantageAPI* class, to fetch programmatically data from an API 
 		+ *SQLRepository* class, to load and extract data into and from a SQLite database 
 	+ Built a wrangling function to create a training Series for the **GARCH** model
-	+ Built and fit the GARCH model and evaluate its detailed summary and performace 
+	+ Built and fit the **GARCH** model and evaluate its detailed summary and performace 
 	+ Created a *GarchModel* class compound by methods for data wrangling, model training, prediction generation and model load/saving
 	+ Built a **web API** and launch the server by means of *FastAPI* and *uvicorn*, respectively
 	+ Built data classes in order to forestall client-server communication errors
