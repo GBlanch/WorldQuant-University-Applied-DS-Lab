@@ -1,6 +1,6 @@
 #  Applied Data Science Lab at WorldQuant University
 
-[Credential of completion](https://www.credly.com/earner/earned/badge/e6e91aef-a957-48d5-8a02-7b9e5d76c042)
+**[Credential of completion](https://www.credly.com/earner/earned/badge/e6e91aef-a957-48d5-8a02-7b9e5d76c042)**
 
 ## Syllabus summary of the courses
 
@@ -100,4 +100,4 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 	+ **API paths** for **model fitting** and **predictions serving**
 
 
-[Credential of completion](https://www.credly.com/earner/earned/badge/e6e91aef-a957-48d5-8a02-7b9e5d76c042)
+
