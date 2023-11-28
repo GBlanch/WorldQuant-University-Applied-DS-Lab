@@ -13,7 +13,7 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 **1 & 2. Housing in Mexico and Buenos Aires:**
    
    + Imported multiple CSV files from a private repository into a pandas DataFrame using for loops
-   + Created insightful visualizations like histograms, scatter plots, and bar charts
+   + Created preliminary and exploratory histograms, scatter plots, whisker plots and bar charts
    + Examined the relationship between variables by assessing **Pearson correlation** coefficients  
    + **Cleaned** and **munged raw data** by creating a **custom *wrangle* function**
    + Built **ML pipelines** by means of *Ridge, OneHotEncoder, SimpleImputer, LinearRegression* and *make_pipeline* built-in *sklearn* functions
