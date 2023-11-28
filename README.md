@@ -86,7 +86,7 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 
 **8. Volatility forecasting in India:**
 + Applied **Defensive programming** when designing functions to **access APIs** through an **URL** and **request objects**
-+ By means of **Test Driven Development** practices, built the following OOP objects:
++ By means of **Test Driven Development** practices, built the following **OOP objects**:
 	+ *AlphaVantageAPI* class, to **programmatically fetch data** from an **API**
 	+ *SQLRepository* class, to **load and extract data** into and from a **SQLite database**
 + Constructed wrangling functions to create training Series for **GARCH** models
