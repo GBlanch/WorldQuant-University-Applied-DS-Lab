@@ -18,14 +18,14 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 
 #### 2. Apartment sales in Buenos Aires:
    
-   +	Cleaned and munged raw data by creating a custom wrangle function
-   +	Built ML pipelines by means of *Ridge, OneHotEncoder, SimpleImputer, LinearRegression* and *make_pipeline* built-in *sklearn* functions
-   +	Applied **L2 Regularization** in order to prevent **overfitting or underfitting** in **Linear Regression** models
-   +	Created an **interactive dashboard** utilizing *ipywidgets* library to module predictions based on different input features
+   + Cleaned and munged raw data by creating a custom wrangle function
+   + Built **ML pipelines** by means of *Ridge, OneHotEncoder, SimpleImputer, LinearRegression* and *make_pipeline* built-in *sklearn* functions
+   + Applied **L2 Regularization** in order to prevent **overfitting or underfitting** in **Linear Regression** models
+   + Created an **interactive dashboard** utilizing *ipywidgets* library to module predictions based on different input features
 
 #### 3. Air quality forecast in Nairobi:
 
-+ Connected to a MongoDB server using *pymongo* library to localize and fetch the required data.
++ Connected to a **MongoDB server** using *pymongo* library to localize and fetch the required data.
 + Applied rolling average, autocorrelation and lag operations to Times Series data variables
 + Utilized **Train Test Split** procedures to create proper train and test datasets for a **Linear Regression** model
 + Built, explored and interpreted **Partial/Auto Correlation Functions** plots
@@ -36,7 +36,7 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 #### 4. Earthquake damage prediction in Nepal:
    + Connected to a SQL database and wrangled data using *magic commands* and *sqlite3* library
    + Executed randomized **Train Test Split** to create proper training, testing and validation datasets
-   + Elaborated ML pipelines utilizing *OrdinalEncoder, DecisionTreeClassifier, LogisticRegression* and *make_pipeline* built-in *sklearn* functions
+   + Elaborated **ML pipelines** utilizing *OrdinalEncoder, DecisionTreeClassifier, LogisticRegression* and *make_pipeline* built-in *sklearn* functions
    + Besides computing and evaluating training and validation accuracy scores:
 	   	+ For **DT models**, tuned the **Tree’s depth** and assessed its predictions by assessing the **Gini importance** of its features
 	   	+ For **LR models**, evaluated **Odds ratios** to explain its predictions
@@ -45,7 +45,7 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 #### 5. Bankruptcy in Poland:
 + Applied **Undersampling** and **Oversampling** to adjust the **class distribution** of the dataset
 + Computed **confusion matrices** to summarize how DT models performed and find areas of improvement
-+ Construct ML pipelines by means of *SimpleImputer, RandomForestClassifier, GradientBoostingClassifier* and *make_pipeline* built-in *sklearn* functions
++ Constructed **ML pipelines** by means of *SimpleImputer, RandomForestClassifier, GradientBoostingClassifier* and *make_pipeline* built-in *sklearn* functions
 + Performed **k-fold Cross-Validation** to evaluate **model performance**
 + Utilized *GridSearchCV* to compute different **hyperparameters** and found their optimal ranges for the selected ones
 + Built **interactive confusion matrices** to asses how the model's probability threshold affects **accuracy, precision and recall scores**
@@ -58,7 +58,7 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 + Developed and deployed a **Dash web app architected in 3 layers** (Business, Service and Presentation) where **interactive** scatter plots and barcharts were modified via sliders
 
 #### 7. A/B Testing at WorldQuant University:
-+ Fetched synthetic data from a Mongo DB and performed data wrangling using *pymongo* queries
++ Fetched synthetic data from a **Mongo DB** and performed data wrangling using *pymongo* queries
 + Designed, built and developed **OOP class definitions** containing the database attributes and ETL methods based on the experimental hypothesis
 + Performed **cross-tabulation** to the wrangled dataset in order to create a contingency table and obtain odds ratios
 + Designed and conducted a chi square test using *statsmodels* module and analyzed its results
