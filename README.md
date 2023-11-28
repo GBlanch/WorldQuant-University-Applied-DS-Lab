@@ -9,22 +9,22 @@ n.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
    
    + Imported multiple CSV files into a pandas DataFrame using for loops
    + Created insightful visualizations like histograms, scatter plots, and bar charts
-   + Examined the relationship between variables by assessing Pearson correlation coefficients
+   + Examined the relationship between variables by assessing **Pearson correlation** coefficients
 
 2. Apartment sales in Buenos Aires
    
    +	Cleaned and munged raw data by creating a custom wrangle function
-   +	Built ML pipelines by means of Ridge, OneHotEncoder, SimpleImputer, LinearRegression and make_pipeline built-in sklearn functions
-   +	Applied L2 Regularization in order to prevent overfitting or underfitting in LR models
-   +	Created an interactive dashboard utilizing ipywidgets library to module predictions based on different input features
+   +	Built ML pipelines by means of *Ridge, OneHotEncoder, SimpleImputer, LinearRegression* and *make_pipeline* built-in *sklearn* functions
+   +	Applied **L2 Regularization** in order to prevent **overfitting or underfitting** in **Linear Regression** models
+   +	Created an **interactive dashboard** utilizing *ipywidgets* library to module predictions based on different input features
 
 3. Air quality forecast in Nairobi 
-	+ Connected to a MongoDB server using pymongo library to localize and fetch the required data.
+	+ Connected to a MongoDB server using *pymongo* library to localize and fetch the required data.
 	+ Applied rolling average, autocorrelation and lag operations to Times Series data variables
-	+ Utilized Train Test Split procedures to create proper train and test datasets for a Linear Regression model
-	+ Built, explored and interpreted Partial/Auto Correlation Functions plots
-	+ Using statsmodels modules, constructed Auto Regressive and ARMA models and validated them via Walk Forward optimization.
-	+ Tuned the number of lagged observations and moving avg. window size via GridSearchCV 
+	+ Utilized **Train Test Split** procedures to create proper train and test datasets for a **Linear Regression** model
+	+ Built, explored and interpreted **Partial/Auto Correlation Functions** plots
+	+ Using statsmodels modules, constructed **Auto Regressive** and **ARMA** models and validated them via **Walk Forward** optimization.
+	+ Tuned the number of **lagged observations** and **moving avg. window size** via *GridSearchCV*
 	+ Detected an optimal balance between Model Performance and Computational Costs
 
 4. Earthquake damage prediction in Nepal
@@ -52,23 +52,23 @@ n.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 	+ Developed and deployed a Dash web app architected in 3 layers (Business, Service and Presentation) where interactive scatter plots and barcharts were modified via sliders
 
 7. A/B Testing at WorldQuant University
-	+ Fetched synthetic data from a Mongo DB and performed data wrangling using pymongo querie
-	+ Designed, built and developed an OOP class definitions containing the database attributes and ETL methods based on the experimental hypothesis
-	+ Performed cross-tabulation to the wrangled dataset in order to create a contingency table and obtain odds ratios
-	+ Designed and conducted a chi square test using statsmodels module and analyzed its results
-	+ Built and launched an interactive and 3-tier decoupled web application to deploy and display barcharts and choropleth maps. The layer distribution and their OOP classes and functions were the following:
-	  + Database: customized MongoRepository class
-	  + Business : GraphBuilder and StatsBuilder classes from statsmodels module
+	+ Fetched synthetic data from a Mongo DB and performed data wrangling using *pymongo* queries
+	+ Designed, built and developed **OOP class definitions** containing the database attributes and ETL methods based on the experimental hypothesis
+	+ Performed **cross-tabulation** to the wrangled dataset in order to create a contingency table and obtain odds ratios
+	+ Designed and conducted a chi square test using *statsmodels* module and analyzed its results
+	+ Built and launched an **interactive and 3-tier decoupled web application** to deploy and display barcharts and choropleth maps. The layer distribution and their OOP classes and functions were the following:
+	  + Database: customized *MongoRepository* class
+	  + Business : *GraphBuilder* and *StatsBuilder* classes from *statsmodels* module
  	+ Design/Layout: Demographic, Experiments and Result sections with dropdowns and sliders
 
 8. Volatility forecasting in India
-	+ Applied Defensive programming when designing a function to access APIs through an URL and Requests
-	+ By means of Test Driven Development practices, built the following OOP classes:
+	+ Applied **Defensive programming** when designing a function to access APIs through an URL and Requests
+	+ By means of **Test Driven Development** practices, built the following OOP classes:
 	 	+ AlphaVantageAPI class, to fetch programmatically data from an API 
 		+ SQLRepository class, to load and extract data into and from a SQLite database 
 	+ Built a wrangling function to create a training Series for the GARCH model
 	+ Built and fit the GARCH model and evaluate its detailed summary and performace 
 	+ Created a GarchModel class compound by methods for data wrangling, model training, prediction generation and model load/saving
-	+ Built a web API and launch the server by means of FastAPI and uvicorn, respectively
+	+ Built a web API and launch the server by means of *FastAPI* and *uvicorn*, respectively
 	+ Built data classes in order to forestall client-server communication errors
 	+ Created API paths for model fitting and predictions serving 
