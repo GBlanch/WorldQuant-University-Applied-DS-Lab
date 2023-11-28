@@ -51,7 +51,7 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 &nbsp;       
 
 **5. Bankruptcy in Poland:**
-+ Applied **Undersampling** and **Oversampling** to adjust the **class distribution** of the dataset
++ Applied **Undersampling** and **Oversampling** to adjust the **class distribution** of datasets
 + Computed **confusion matrices** to summarize how **Decission Tree algorithms** performed and **find areas** of **improvement**
 + Constructed **ML pipelines** by means of *SimpleImputer, RandomForestClassifier, GradientBoostingClassifier* and *make_pipeline* built-in *sklearn* functions
 + Performed **k-fold Cross-Validation** to evaluate **model performance**
