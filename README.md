@@ -87,9 +87,9 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 + By means of **Test Driven Development** practices, built the following OOP objects:
 	+ *AlphaVantageAPI* class, to **programmatically fetch data** from an **API**
 	+ *SQLRepository* class, to **load and extract data** into and from a **SQLite database**
-+ Built a wrangling function to create a training Series for the **GARCH** model
++ Constructed a wrangling function to create a training Series for the **GARCH** model
 + Built and fit the **GARCH** model and evaluate its detailed summary and performace 
 + Created a *GarchModel* class compound by methods for **data wrangling, model training, prediction generation** and model **load/saving**
 + Built a **web API** and **launch the server** by means of *FastAPI* and *uvicorn*, respectively
-+ Built **data classes** in order to **forestall client-server communication errors**
++ Constructed **data classes** in order to **forestall client-server communication errors**
 + Created **API paths** for **model fitting** and **predictions serving**
