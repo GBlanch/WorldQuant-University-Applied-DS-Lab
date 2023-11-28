@@ -96,3 +96,6 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 	+ A **web API** and **launch the server** by means of *FastAPI* and *uvicorn*, respectively
 	+ **Data classes** in order to **forestall client-server communication errors**
 	+ **API paths** for **model fitting** and **predictions serving**
+
+
+[Credential of completion](https://www.credly.com/earner/earned/badge/e6e91aef-a957-48d5-8a02-7b9e5d76c042)
