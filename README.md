@@ -10,17 +10,11 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 &nbsp;
 &nbsp;       
 
-**1. Housing in Mexico:**
+**1 and 2. Housing in Mexico and Argentina:**
    
    + Imported multiple CSV files into a pandas DataFrame using for loops
    + Created insightful visualizations like histograms, scatter plots, and bar charts
-   + Examined the relationship between variables by assessing **Pearson correlation** coefficients
-     
-&nbsp;
-&nbsp;       
-
-**2. Apartment sales in Buenos Aires:**
-   
+   + Examined the relationship between variables by assessing **Pearson correlation** coefficients  
    + Cleaned and munged raw data by creating a custom wrangle function
    + Built **ML pipelines** by means of *Ridge, OneHotEncoder, SimpleImputer, LinearRegression* and *make_pipeline* built-in *sklearn* functions
    + Applied **L2 Regularization** in order to prevent **overfitting or underfitting** in **Linear Regression** models
