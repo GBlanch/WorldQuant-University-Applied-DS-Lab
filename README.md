@@ -10,7 +10,7 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 &nbsp;
 &nbsp;       
 
-### 1. Housing in Mexico:
+#### 1. Housing in Mexico:
    
    + Imported multiple CSV files into a pandas DataFrame using for loops
    + Created insightful visualizations like histograms, scatter plots, and bar charts
@@ -24,13 +24,14 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
    +	Created an **interactive dashboard** utilizing *ipywidgets* library to module predictions based on different input features
 
 #### 3. Air quality forecast in Nairobi 
-	+ Connected to a MongoDB server using *pymongo* library to localize and fetch the required data.
-	+ Applied rolling average, autocorrelation and lag operations to Times Series data variables
-	+ Utilized **Train Test Split** procedures to create proper train and test datasets for a **Linear Regression** model
-	+ Built, explored and interpreted **Partial/Auto Correlation Functions** plots
-	+ Using statsmodels modules, constructed **Auto Regressive** and **ARMA** models and validated them via **Walk Forward** optimization.
-	+ Tuned the number of **lagged observations** and **moving avg. window size** via *GridSearchCV*
-	+ Detected an optimal balance between Model Performance and Computational Costs
+
++ Connected to a MongoDB server using *pymongo* library to localize and fetch the required data.
++ Applied rolling average, autocorrelation and lag operations to Times Series data variables
++ Utilized **Train Test Split** procedures to create proper train and test datasets for a **Linear Regression** model
++ Built, explored and interpreted **Partial/Auto Correlation Functions** plots
++ Using statsmodels modules, constructed **Auto Regressive** and **ARMA** models and validated them via **Walk Forward** optimization.
++ Tuned the number of **lagged observations** and **moving avg. window size** via *GridSearchCV*
++ Detected an optimal balance between Model Performance and Computational Costs
 
 4. Earthquake damage prediction in Nepal
 	+ Connected to a SQL database and wrangled data using *magic commands* and *sqlite3* library
