@@ -11,10 +11,10 @@ n.b.: Due to WQU Copyright Licenses and Policies, no piece of IDE content/code r
 
 2. Apartment sales in Buenos Aires
    
-   •	Cleaned and munged raw data by creating a custom wrangle function
-   •	Built ML pipelines by means of Ridge, OneHotEncoder, SimpleImputer, LinearRegression and make_pipeline built-in sklearn functions
-   •	Applied L2 Regularization in order to prevent overfitting or underfitting in LR models
-   •	Created an interactive dashboard utilizing ipywidgets library to module predictions based on different input features
+   +	Cleaned and munged raw data by creating a custom wrangle function
+   +	Built ML pipelines by means of Ridge, OneHotEncoder, SimpleImputer, LinearRegression and make_pipeline built-in sklearn functions
+   +	Applied L2 Regularization in order to prevent overfitting or underfitting in LR models
+   +	Created an interactive dashboard utilizing ipywidgets library to module predictions based on different input features
 
 5. Air quality forecast in Nairobi 
 •	Connected to a MongoDB server using pymongo library to localize and fetch the required data.
