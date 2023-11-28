@@ -25,6 +25,9 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
    + Built **ML pipelines** by means of *Ridge, OneHotEncoder, SimpleImputer, LinearRegression* and *make_pipeline* built-in *sklearn* functions
    + Applied **L2 Regularization** in order to prevent **overfitting or underfitting** in **Linear Regression** models
    + Created an **interactive dashboard** utilizing *ipywidgets* library to module predictions based on different input features
+     
+&nbsp;
+&nbsp;       
 
 **3. Air quality forecast in Nairobi:**
 
@@ -35,6 +38,9 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 + Using statsmodels modules, constructed **Auto Regressive** and **ARMA** models and validated them via **Walk Forward** optimization.
 + Tuned the number of **lagged observations** and **moving avg. window size** via *GridSearchCV*
 + Detected an **optimal balance** between **Model Performance** and **Computational Costs**
+     
+&nbsp;
+&nbsp;       
 
 **4. Earthquake damage prediction in Nepal:**
    + Connected to a SQL database and wrangled data using *magic commands* and *sqlite3* library
@@ -44,6 +50,9 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 	   	+ For **Decission Tree algorithms**, tuned the **Tree’s depth** and assessed its predictions by assessing the **Gini importance** of its features
 	   	+ For **Logistic Regression algorithms**, evaluated **Odds ratios** to explain its predictions
    + Reviewed the **Ethics of Environmental and Social impact** that Machine Learning models may lead to because of **data biases**
+     
+&nbsp;
+&nbsp;       
 
 **5. Bankruptcy in Poland:**
 + Applied **Undersampling** and **Oversampling** to adjust the **class distribution** of the dataset
@@ -52,6 +61,9 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 + Performed **k-fold Cross-Validation** to evaluate **model performance**
 + Utilized *GridSearchCV* to compute different **hyperparameters** and found their optimal ranges for the selected ones
 + Built **interactive confusion matrices** to asses how the model's probability threshold affects **accuracy, precision and recall scores**
+     
+&nbsp;
+&nbsp;       
 
 **6. Customer segmentation in the US:**
 + Performed preliminary EDA on a dataset from Survey of Consumer Finances (SCF) compound by **28k observations** and **350 features** after subsetting it
@@ -59,6 +71,9 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 + Assessed the optimal clustering selection by evaluating **variance, inertia and silhouette scores**
 + Reduced the dimension of feature matrices by means of **PCA transformation**
 + Developed and deployed a **Dash web app architected in 3 layers** (Business, Service and Presentation) where **interactive** scatter plots and barcharts were modified via sliders
+     
+&nbsp;
+&nbsp;       
 
 **7. A/B Testing at WorldQuant University:**
 + Fetched synthetic data from a **Mongo DB** and performed data wrangling using *pymongo* queries
@@ -69,6 +84,9 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
   + Database: customized *MongoRepository* class
   + Business : *GraphBuilder* and *StatsBuilder* classes from *statsmodels* module
   + Design/Layout: Demographic, Experiments and Result sections with **dropdowns** and **sliders**
+     
+&nbsp;
+&nbsp;       
 
 **8. Volatility forecasting in India:**
 + Applied **Defensive programming** when designing a function to access APIs through an URL and Requests
