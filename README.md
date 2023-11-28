@@ -85,7 +85,7 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 &nbsp;       
 
 **8. Volatility forecasting in India:**
-+ Applied **Defensive programming** when designing functions to **access APIs** through an **URL** and **Requests**
++ Applied **Defensive programming** when designing functions to **access APIs** through an **URL** and **requests objects**
 + By means of **Test Driven Development** practices, built the following OOP objects:
 	+ *AlphaVantageAPI* class, to **programmatically fetch data** from an **API**
 	+ *SQLRepository* class, to **load and extract data** into and from a **SQLite database**
