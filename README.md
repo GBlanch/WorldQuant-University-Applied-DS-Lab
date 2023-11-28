@@ -1,4 +1,4 @@
-# WorldQuant University Applied DS Lab
+#  Applied Data Science Lab at WorldQuant University
 
 ## Syllabus summary of the courses
 
