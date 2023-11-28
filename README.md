@@ -16,7 +16,7 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
    + Created insightful visualizations like histograms, scatter plots, and bar charts
    + Examined the relationship between variables by assessing **Pearson correlation** coefficients
 
-#### 2. Apartment sales in Buenos Aires:
+**2. Apartment sales in Buenos Aires:**
    
    + Cleaned and munged raw data by creating a custom wrangle function
    + Built **ML pipelines** by means of *Ridge, OneHotEncoder, SimpleImputer, LinearRegression* and *make_pipeline* built-in *sklearn* functions
