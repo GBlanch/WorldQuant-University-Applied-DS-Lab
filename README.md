@@ -31,15 +31,15 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 + Built, explored and interpreted **Partial/Auto Correlation Functions** plots
 + Using statsmodels modules, constructed **Auto Regressive** and **ARMA** models and validated them via **Walk Forward** optimization.
 + Tuned the number of **lagged observations** and **moving avg. window size** via *GridSearchCV*
-+ Detected an optimal balance between Model Performance and Computational Costs
++ Detected an **optimal balance** between **Model Performance** and **Computational Costs**
 
 **4. Earthquake damage prediction in Nepal:**
    + Connected to a SQL database and wrangled data using *magic commands* and *sqlite3* library
    + Executed randomized **Train Test Split** to create proper training, testing and validation datasets
    + Elaborated **ML pipelines** utilizing *OrdinalEncoder, DecisionTreeClassifier, LogisticRegression* and *make_pipeline* built-in *sklearn* functions
    + Besides computing and evaluating training and validation accuracy scores:
-	   	+ For **DT models**, tuned the **Tree’s depth** and assessed its predictions by assessing the **Gini importance** of its features
-	   	+ For **LR models**, evaluated **Odds ratios** to explain its predictions
+	   	+ For **Decission Tree algorithms**, tuned the **Tree’s depth** and assessed its predictions by assessing the **Gini importance** of its features
+	   	+ For **Logistic Regression algorithms**, evaluated **Odds ratios** to explain its predictions
    + Reviewed the **Ethics of Environmental and Social impact** that Machine Learning models may lead to because of **data biases**
 
 **5. Bankruptcy in Poland:**
@@ -60,12 +60,12 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 **7. A/B Testing at WorldQuant University:**
 + Fetched synthetic data from a **Mongo DB** and performed data wrangling using *pymongo* queries
 + Designed, built and developed **OOP class definitions** containing the database attributes and ETL methods based on the experimental hypothesis
-+ Performed **cross-tabulation** to the wrangled dataset in order to create a contingency table and obtain odds ratios
++ Performed **cross-tabulation** to the wrangled dataset in order to create a **contingency table** and obtain **odds ratios**
 + Designed and conducted a chi square test using *statsmodels* module and analyzed its results
 + Built and launched an **interactive and 3-tier decoupled web application** to deploy and display barcharts and choropleth maps.The layer distribution and their OOP classes and functions were the compound by the following objects:
   + Database: customized *MongoRepository* class
   + Business : *GraphBuilder* and *StatsBuilder* classes from *statsmodels* module
-  + Design/Layout: Demographic, Experiments and Result sections with dropdowns and sliders
+  + Design/Layout: Demographic, Experiments and Result sections with **dropdowns** and **sliders**
 
 **8. Volatility forecasting in India:**
 + Applied **Defensive programming** when designing a function to access APIs through an URL and Requests
