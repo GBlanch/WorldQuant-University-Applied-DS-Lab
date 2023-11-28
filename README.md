@@ -16,14 +16,14 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
    + Created insightful visualizations like histograms, scatter plots, and bar charts
    + Examined the relationship between variables by assessing **Pearson correlation** coefficients
 
-#### 2. Apartment sales in Buenos Aires
+#### 2. Apartment sales in Buenos Aires:
    
    +	Cleaned and munged raw data by creating a custom wrangle function
    +	Built ML pipelines by means of *Ridge, OneHotEncoder, SimpleImputer, LinearRegression* and *make_pipeline* built-in *sklearn* functions
    +	Applied **L2 Regularization** in order to prevent **overfitting or underfitting** in **Linear Regression** models
    +	Created an **interactive dashboard** utilizing *ipywidgets* library to module predictions based on different input features
 
-#### 3. Air quality forecast in Nairobi 
+#### 3. Air quality forecast in Nairobi:
 
 + Connected to a MongoDB server using *pymongo* library to localize and fetch the required data.
 + Applied rolling average, autocorrelation and lag operations to Times Series data variables
@@ -33,7 +33,7 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 + Tuned the number of **lagged observations** and **moving avg. window size** via *GridSearchCV*
 + Detected an optimal balance between Model Performance and Computational Costs
 
-#### 4. Earthquake damage prediction in Nepal
+#### 4. Earthquake damage prediction in Nepal:
    + Connected to a SQL database and wrangled data using *magic commands* and *sqlite3* library
    + Executed randomized **Train Test Split** to create proper training, testing and validation datasets
 	+ Elaborated ML pipelines utilizing *OrdinalEncoder, DecisionTreeClassifier, LogisticRegression* and *make_pipeline* built-in *sklearn* functions
@@ -57,7 +57,7 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 + Reduced the dimension of feature matrices by means of **PCA transformation**
 + Developed and deployed a **Dash web app architected in 3 layers** (Business, Service and Presentation) where **interactive** scatter plots and barcharts were modified via sliders
 
-#### 7. A/B Testing at WorldQuant University
+#### 7. A/B Testing at WorldQuant University:
 + Fetched synthetic data from a Mongo DB and performed data wrangling using *pymongo* queries
 + Designed, built and developed **OOP class definitions** containing the database attributes and ETL methods based on the experimental hypothesis
 + Performed **cross-tabulation** to the wrangled dataset in order to create a contingency table and obtain odds ratios
@@ -67,7 +67,7 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
   + Business : *GraphBuilder* and *StatsBuilder* classes from *statsmodels* module
   + Design/Layout: Demographic, Experiments and Result sections with dropdowns and sliders
 
-#### 8. Volatility forecasting in India
+#### 8. Volatility forecasting in India:
 + Applied **Defensive programming** when designing a function to access APIs through an URL and Requests
 + By means of **Test Driven Development** practices, built the following OOP objects:
 	+ *AlphaVantageAPI* class, to fetch programmatically data from an API 
