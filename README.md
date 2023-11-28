@@ -1,4 +1,6 @@
-# Syllabus summary of the courses
+# WorldQuant University Applied DS Lab
+
+## Syllabus summary of the courses
 
 N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content/code ran or deployed in any courses is permitted to be published.
 
