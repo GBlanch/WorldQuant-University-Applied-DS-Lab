@@ -40,7 +40,7 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 
 **4. Earthquake damage prediction in Nepal:**
    + Connected to a SQL database and wrangled data using *magic commands* and *sqlite3* library
-   + Executed randomized **Train Test Split** to create proper training, testing and validation datasets
+   + Executed randomized **Train Test Split** to create proper **training, testing** and **validation datasets**
    + Elaborated **ML pipelines** utilizing *OrdinalEncoder, DecisionTreeClassifier, LogisticRegression* and *make_pipeline* built-in *sklearn* functions
    + Besides **computing** and **evaluating training** and **validation accuracy scores**:
 	   	+ For **Decission Tree algorithms**, tuned the **Tree’s depth** and assessed its predictions by assessing the **Gini importance** of its features
@@ -63,7 +63,7 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 
 **6. Customer segmentation in the US:**
 + Performed preliminary EDA on a dataset from Survey of Consumer Finances (SCF) compound by **28k observations** and **350 features** after subsetting it
-+ Build and fit **k-means models** to create **multi-feature clustering** after computing and standardizing their feature matrix
++ Build and fit **k-means models** to create **multi-feature clustering** after computing and standardizing their **feature matrix**
 + Assessed the optimal clustering selection by evaluating **variance, inertia and silhouette scores**
 + Reduced the dimension of feature matrices by means of **PCA transformation**
 + Developed and deployed a **Dash web app architected in 3 layers** (Business, Service and Presentation) where **interactive** scatter plots and barcharts were modified via sliders
@@ -76,7 +76,7 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 + Designed, built and developed **OOP class definitions** containing the database attributes and ETL methods based on the experimental hypothesis
 + Performed **cross-tabulation** to the wrangled dataset in order to create a **contingency table** and obtain **odds ratios**
 + Designed and conducted a chi square test using *statsmodels* module and analyzed its results
-+ Built and launched an **interactive and 3-tier decoupled web application** to deploy and display barcharts and choropleth maps.The layer distribution and their OOP classes and functions were the compound by the following objects:
++ Built and launched an **interactive and 3-tier decoupled web application** to deploy and display barcharts and choropleth maps.The **layer distribution** and their **OOP classes** and **functions** were the compound by the following objects:
   + Database: customized *MongoRepository* class
   + Business : *GraphBuilder* and *StatsBuilder* classes from *statsmodels* module
   + Design/Layout: Demographic, Experiments and Result sections with **dropdowns** and **sliders**
