@@ -5,9 +5,9 @@ n.b.: Due to WQU Copyright Licenses and Policies, no piece of IDE content/code r
 
 1. Housing in Mexico:
    
-  •	Imported multiple CSV files into a pandas DataFrame using for loops
-  •	Created insightful visualizations like histograms, scatter plots, and bar charts
-  •	Examined the relationship between variables by assessing Pearson correlation coefficients
++ Imported multiple CSV files into a pandas DataFrame using for loops
++ Created insightful visualizations like histograms, scatter plots, and bar charts
++ Examined the relationship between variables by assessing Pearson correlation coefficients
 
 3. Apartment sales in Buenos Aires
 •	Cleaned and munged raw data by creating a custom wrangle function
