@@ -37,7 +37,7 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
    + Connected to a SQL database and wrangled data using *magic commands* and *sqlite3* library
    + Executed randomized **Train Test Split** to create proper training, testing and validation datasets
    + Elaborated **ML pipelines** utilizing *OrdinalEncoder, DecisionTreeClassifier, LogisticRegression* and *make_pipeline* built-in *sklearn* functions
-   + Besides computing and evaluating training and validation accuracy scores:
+   + Besides **computing** and **evaluating training** and **validation accuracy scores**:
 	   	+ For **Decission Tree algorithms**, tuned the **Tree’s depth** and assessed its predictions by assessing the **Gini importance** of its features
 	   	+ For **Logistic Regression algorithms**, evaluated **Odds ratios** to explain its predictions
    + Reviewed the **Ethics of Environmental and Social impact** that Machine Learning models may lead to because of **data biases**
