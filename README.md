@@ -90,7 +90,7 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 	+ *AlphaVantageAPI* class, to **programmatically fetch data** from an **API**
 	+ *SQLRepository* class, to **load and extract data** into and from a **SQLite database**
 + Constructed wrangling functions to create training Series for **GARCH** models
-+ Built and fit **GARCH** models and evaluate their detailed summary and performace 
++ Built and fit **GARCH** models and evaluated their **detailed summary** and **performace** 
 + Created:
 	+ A *GarchModel* class compound by methods for **data wrangling, model training, prediction generation** and **model load/saving**
 	+ A **web API** and **launched the server** by means of *FastAPI* and *uvicorn*, respectively
