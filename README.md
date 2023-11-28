@@ -62,7 +62,8 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 + Designed, built and developed **OOP class definitions** containing the database attributes and ETL methods based on the experimental hypothesis
 + Performed **cross-tabulation** to the wrangled dataset in order to create a contingency table and obtain odds ratios
 + Designed and conducted a chi square test using *statsmodels* module and analyzed its results
-+ Built and launched an **interactive and 3-tier decoupled web application** to deploy and display barcharts and choropleth maps. The layer distribution and their OOP classes and functions were the compound by the following objects:
++ Built and launched an **interactive and 3-tier decoupled web application** to deploy and display barcharts and choropleth maps.
+    The layer distribution and their OOP classes and functions were the compound by the following objects:
   + Database: customized *MongoRepository* class
   + Business : *GraphBuilder* and *StatsBuilder* classes from *statsmodels* module
   + Design/Layout: Demographic, Experiments and Result sections with dropdowns and sliders
