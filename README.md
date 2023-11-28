@@ -33,8 +33,8 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 + Tuned the number of **lagged observations** and **moving avg. window size** via *GridSearchCV*
 + Detected an optimal balance between Model Performance and Computational Costs
 
-4. Earthquake damage prediction in Nepal
-	+ Connected to a SQL database and wrangled data using *magic commands* and *sqlite3* library
+#### 4. Earthquake damage prediction in Nepal
+   + Connected to a SQL database and wrangled data using *magic commands* and *sqlite3* library
    + Executed randomized **Train Test Split** to create proper training, testing and validation datasets
 	+ Elaborated ML pipelines utilizing *OrdinalEncoder, DecisionTreeClassifier, LogisticRegression* and *make_pipeline* built-in *sklearn* functions
 	+ Besides computing and evaluating training and validation accuracy scores:
@@ -42,13 +42,13 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 	   	+ For **LR models**, evaluated **Odds ratios** to explain its predictions
 	+ Reviewed the ethics of environmental and social impact that ML models may lead to because of data biases
 
-5. Bankruptcy in Poland:
-	+ Applied **Undersampling** and **Oversampling** to adjust the **class distribution** of the dataset
-	+ Computed **confusion matrices** to summarize how DT models performed and find areas of improvement
-	+ Construct ML pipelines by means of *SimpleImputer, RandomForestClassifier, GradientBoostingClassifier* and *make_pipeline* built-in *sklearn* functions
-	+ Performed **k-fold Cross-Validation** to evaluate **model performance**
-	+ Utilized *GridSearchCV* to compute different **hyperparameters** and found their optimal ranges for the selected ones
-	+ Built **interactive confusion matrices** to asses how the model's probability threshold affects **accuracy, precision and recall scores**
+#### 5. Bankruptcy in Poland:
++ Applied **Undersampling** and **Oversampling** to adjust the **class distribution** of the dataset
++ Computed **confusion matrices** to summarize how DT models performed and find areas of improvement
++ Construct ML pipelines by means of *SimpleImputer, RandomForestClassifier, GradientBoostingClassifier* and *make_pipeline* built-in *sklearn* functions
++ Performed **k-fold Cross-Validation** to evaluate **model performance**
++ Utilized *GridSearchCV* to compute different **hyperparameters** and found their optimal ranges for the selected ones
++ Built **interactive confusion matrices** to asses how the model's probability threshold affects **accuracy, precision and recall scores**
 
 6. Customer segmentation in the US:
 	+ Performed preliminary EDA on a dataset from Survey of Consumer Finances (SCF) compound by **28k observations** and **350 features** after subsetting it
