@@ -93,7 +93,7 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 + Built and fit **GARCH** models and evaluate their detailed summary and performace 
 + Created:
 	+ A *GarchModel* class compound by methods for **data wrangling, model training, prediction generation** and **model load/saving**
-	+ A **web API** and **launch the server** by means of *FastAPI* and *uvicorn*, respectively
+	+ A **web API** and **launched the server** by means of *FastAPI* and *uvicorn*, respectively
 	+ **Data classes** in order to **forestall client-server communication errors**
 	+ **API paths** for **model fitting** and **predictions serving**
      
