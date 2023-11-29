@@ -62,7 +62,7 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 &nbsp;       
 
 **6. Customer segmentation in the US:**
-+ Performed preliminary EDA on a dataset from Survey of Consumer Finances (SCF) compound by **28k observations** and **350 features** after subsetting it
++ Performed **preliminary EDA** on a dataset from Survey of Consumer Finances (SCF) compound by **28k observations** and **350 features** after subsetting it
 + Build and fit **k-means models** to create **multi-feature clustering** after computing and standardizing their **feature matrix**
 + Assessed the optimal clustering selection by evaluating **variance, inertia and silhouette scores**
 + Reduced the dimension of feature matrices by means of **PCA transformation**
