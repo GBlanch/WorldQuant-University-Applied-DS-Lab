@@ -20,7 +20,7 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
    + **Cleaned** and **munged raw data** by creating a **custom *wrangle* function**
    + Built **ML pipelines** by means of *Ridge, OneHotEncoder, SimpleImputer, LinearRegression* and *make_pipeline* built-in *sklearn* functions
    + Applied **L2 Regularization** in order to prevent **overfitting or underfitting** in **Linear Regression** models
-   + Created an **interactive dashboard** utilizing *ipywidgets* library to module predictions based on different input features
+   + Created an **interactive dashboard** utilizing *ipywidgets* library to **module predictions** based on different input features
      
 &nbsp;
 &nbsp;       
@@ -55,7 +55,7 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 + Computed **confusion matrices** to summarize how **Decission Tree algorithms** performed and **find areas** of **improvement**
 + Constructed **ML pipelines** by means of *SimpleImputer, RandomForestClassifier, GradientBoostingClassifier* and *make_pipeline* built-in *sklearn* functions
 + Performed **k-fold Cross-Validation** to evaluate **model performance**
-+ Utilized *GridSearchCV* to compute different **hyperparameters** and found their optimal ranges for the selected ones
++ Utilized *GridSearchCV* to compute different **hyperparameters** and found their **optimal ranges** for the selected ones
 + Built **interactive confusion matrices** to asses how the model's probability threshold affects **accuracy, precision and recall scores**
      
 &nbsp;
@@ -64,7 +64,7 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 **6. Customer segmentation in the US:**
 + Performed **preliminary EDA** on a dataset from Survey of Consumer Finances (SCF) compound by **28k observations** and **350 features** after subsetting it
 + Build and fit **k-means models** to create **multi-feature clustering** after computing and standardizing their **feature matrix**
-+ Assessed the optimal clustering selection by evaluating **variance, inertia and silhouette scores**
++ Assessed the **optimal clustering** selection by evaluating **variance, inertia and silhouette scores**
 + Reduced the dimension of feature matrices by means of **PCA transformation**
 + Developed and deployed a **Dash web app architected in 3 layers** (Business, Service and Presentation) where **interactive** scatter plots and barcharts were modified via sliders
      
@@ -100,7 +100,7 @@ N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content
 &nbsp;
 &nbsp;       
 
-Sometimes “impediment to action advances action. What stands in the way becomes the way”. 
+At times “impediment to action advances action. What stands in the way becomes the way”. 
 
 M.A., _Notes to self_
 
