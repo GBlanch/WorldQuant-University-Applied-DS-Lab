@@ -2,6 +2,8 @@
 
 ## Syllabus summary of the courses
 
+In this repo, I summarized the syllabus of the hands-on courses in Data Science I took at WQU. These were compound by 8 end-to-end DS projects in which the common subjects were ETL pipelines, construction of supervised/unsupervised ML algorithms and web app design, development and deployment.
+
 N.b.: Due to the Copyright Licenses and Policies of WQU, no piece of IDE content/code ran or deployed in any course is permitted to be published.
 
 &nbsp;
